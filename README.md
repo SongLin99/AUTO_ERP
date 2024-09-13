@@ -1,4 +1,5 @@
 This project can help you with fast and automated EEG data preprocessing and ERP analysis.
+You can freely set filters, reference electrodes, etc
 Mainly utilizing three packages: **MNE, ICLABEL, and autoreact**  
 
 1.MNE is a basic Python library for processing EEG<br>
